@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
-    "bulid": "react-scripts bulid"
+    "build": "react-scripts build"
   },
   "dependencies": {
     "react": "^18.3.1",
